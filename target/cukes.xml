@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="9" tests="9" time="0.076189">
+    <testcase classname="VyTrack Login" name="Home page default login for all users" time="0.045865">
+        <skipped>
+            <![CDATA[Given User is on vyTrack landing page.......................................undefined
+When User log in to vyTrack account with valid user156 and UserUser123......undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="VyTrack Login" name="Home page default login for all users 2" time="0.003289">
+        <skipped>
+            <![CDATA[Given User is on vyTrack landing page.......................................undefined
+When User log in to vyTrack account with valid user157 and UserUser123......undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="VyTrack Login" name="Home page default login for all users 3" time="0.003084">
+        <skipped>
+            <![CDATA[Given User is on vyTrack landing page.......................................undefined
+When User log in to vyTrack account with valid user158 and UserUser123......undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="VyTrack Login" name="Home page default login for all users 4" time="0.004075">
+        <skipped>
+            <![CDATA[Given User is on vyTrack landing page.......................................undefined
+When User log in to vyTrack account with valid storemanager89 and UserUser123.undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="VyTrack Login" name="Home page default login for all users 5" time="0.003222">
+        <skipped>
+            <![CDATA[Given User is on vyTrack landing page.......................................undefined
+When User log in to vyTrack account with valid storemanager91 and UserUser123.undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="VyTrack Login" name="Home page default login for all users 6" time="0.003212">
+        <skipped>
+            <![CDATA[Given User is on vyTrack landing page.......................................undefined
+When User log in to vyTrack account with valid salesmanager255 and UserUser123.undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="VyTrack Login" name="Home page default login for all users 7" time="0.003186">
+        <skipped>
+            <![CDATA[Given User is on vyTrack landing page.......................................undefined
+When User log in to vyTrack account with valid salesmanager256 and UserUser123.undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="VyTrack Login" name="Sales manager logs in with valid credential and see  all the vehicle info." time="0.004864">
+        <skipped>
+            <![CDATA[Given User is on vyTrack landing page.......................................undefined
+When User log in with "storemanager89" and "UserUser123"....................undefined
+Then User should be able to find Vehicle under Fleet module.................undefined
+And See All cars............................................................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="VyTrack Login" name="Sales manager sould be able to create vehicle." time="0.005392">
+        <skipped>
+            <![CDATA[Given User is on Vehicles under Fleet module................................undefined
+When when user click to create car button and add following details.........undefined
+Then Click to Save and Close button.........................................undefined
+And Sales manager should see it in All Cars list............................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>
